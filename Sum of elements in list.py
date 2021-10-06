@@ -1,6 +1,6 @@
 # creating a list
 list1 = [11, 5, 17, 18, 23]
- 
+total=0
 # Iterate each element in list
 # and add them in variable total
 for i in range(0, len(list1)):
